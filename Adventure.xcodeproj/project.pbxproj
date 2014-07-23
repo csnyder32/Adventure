@@ -157,7 +157,6 @@
 				B1642708197EDA7B00499A6E /* XCTest.framework in Frameworks */,
 				B164270A197EDA7B00499A6E /* UIKit.framework in Frameworks */,
 				B1642709197EDA7B00499A6E /* Foundation.framework in Frameworks */,
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -196,7 +195,6 @@
 			children = (
 				B16426E5197EDA7B00499A6E /* Adventure.app */,
 				B1642706197EDA7B00499A6E /* AdventureTests.xctest */,
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -219,7 +217,6 @@
 				B16426EA197EDA7B00499A6E /* CoreGraphics.framework */,
 				B16426EC197EDA7B00499A6E /* UIKit.framework */,
 				B1642707197EDA7B00499A6E /* XCTest.framework */,
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -254,7 +251,6 @@
 				B16426FE197EDA7B00499A6E /* ViewController.m */,
 				B1642700197EDA7B00499A6E /* Images.xcassets */,
 				B16426EF197EDA7B00499A6E /* Supporting Files */,
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 			path = Adventure;
 			sourceTree = "<group>";
@@ -275,7 +271,6 @@
 				B16426F1197EDA7B00499A6E /* InfoPlist.strings */,
 				B16426F4197EDA7B00499A6E /* main.m */,
 				B16426F6197EDA7B00499A6E /* Adventure-Prefix.pch */,
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -292,7 +287,6 @@
 			children = (
 				B1642713197EDA7B00499A6E /* AdventureTests.m */,
 				B164270E197EDA7B00499A6E /* Supporting Files */,
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 			path = AdventureTests;
 			sourceTree = "<group>";
@@ -309,7 +303,6 @@
 			children = (
 				B164270F197EDA7B00499A6E /* AdventureTests-Info.plist */,
 				B1642710197EDA7B00499A6E /* InfoPlist.strings */,
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -333,7 +326,6 @@
 				B16426E1197EDA7B00499A6E /* Sources */,
 				B16426E2197EDA7B00499A6E /* Frameworks */,
 				B16426E3197EDA7B00499A6E /* Resources */,
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 			buildRules = (
 			);
@@ -363,7 +355,6 @@
 				B1642702197EDA7B00499A6E /* Sources */,
 				B1642703197EDA7B00499A6E /* Frameworks */,
 				B1642704197EDA7B00499A6E /* Resources */,
-7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 			buildRules = (
 			);
@@ -380,7 +371,6 @@
 			name = AdventureTests;
 			productName = AdventureTests;
 			productReference = B1642706197EDA7B00499A6E /* AdventureTests.xctest */;
-7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -390,7 +380,6 @@
 		B164272F197EF89C00499A6E /* Project object */ = {
 
 		B16426DD197EDA7B00499A6E /* Project object */ = {
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0510;
@@ -410,7 +399,6 @@
 				};
 			};
 			buildConfigurationList = B16426E0197EDA7B00499A6E /* Build configuration list for PBXProject "Adventure" */;
-7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -434,7 +422,6 @@
 			targets = (
 				B16426E4197EDA7B00499A6E /* Adventure */,
 				B1642705197EDA7B00499A6E /* AdventureTests */,
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 		};
 /* End PBXProject section */
@@ -471,7 +458,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				B1642712197EDA7B00499A6E /* InfoPlist.strings in Resources */,
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -514,7 +500,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				B1642714197EDA7B00499A6E /* AdventureTests.m in Sources */,
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -531,7 +516,6 @@
 			isa = PBXTargetDependency;
 			target = B16426E4197EDA7B00499A6E /* Adventure */;
 			targetProxy = B164270B197EDA7B00499A6E /* PBXContainerItemProxy */;
-7fa11e01d70300d6f779d4602b5dfb801d462cc8
 		};
 /* End PBXTargetDependency section */
 
@@ -546,7 +530,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				B16426F2197EDA7B00499A6E /* en */,
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -561,7 +544,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				B16426FB197EDA7B00499A6E /* Base */,
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -576,7 +558,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				B1642711197EDA7B00499A6E /* en */,
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -588,7 +569,6 @@
 		B1642767197EF89C00499A6E /* Debug */ = {
 
 		B1642715197EDA7B00499A6E /* Debug */ = {
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -630,7 +610,6 @@
 		B1642768197EF89C00499A6E /* Release */ = {
 
 		B1642716197EDA7B00499A6E /* Release */ = {
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -666,7 +645,6 @@
 		B164276A197EF89C00499A6E /* Debug */ = {
 
 		B1642718197EDA7B00499A6E /* Debug */ = {
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -687,7 +665,6 @@
 		B164276B197EF89C00499A6E /* Release */ = {
 
 		B1642719197EDA7B00499A6E /* Release */ = {
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -708,7 +685,6 @@
 		B164276D197EF89C00499A6E /* Debug */ = {
 
 		B164271B197EDA7B00499A6E /* Debug */ = {
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Adventure.app/Adventure";
@@ -734,7 +710,6 @@
 		B164276E197EF89C00499A6E /* Release */ = {
 
 		B164271C197EDA7B00499A6E /* Release */ = {
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Adventure.app/Adventure";
@@ -767,7 +742,6 @@
 			buildConfigurations = (
 				B1642715197EDA7B00499A6E /* Debug */,
 				B1642716197EDA7B00499A6E /* Release */,
- 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -814,5 +788,5 @@
 /* End XCConfigurationList section */
 	};
 	rootObject = B16426DD197EDA7B00499A6E /* Project object */;
-7fa11e01d70300d6f779d4602b5dfb801d462cc8
+
 }
