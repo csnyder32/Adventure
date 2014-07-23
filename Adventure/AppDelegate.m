@@ -10,9 +10,15 @@
 #import <CheckMate/CheckMate.h>
 @import MapKit;
 
+<<<<<<< HEAD
 
 @implementation AppDelegate
 
+=======
+@implementation AppDelegate
+
+
+>>>>>>> 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     [CheckMate initializeFramework:@"180c974f1c8deaf6e35588c07de8ae1f"];

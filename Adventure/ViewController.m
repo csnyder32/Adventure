@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+<<<<<<< HEAD
 #import "newViewController.h"
 #import "thirdViewController.h"
 
@@ -20,6 +21,11 @@
 @property (weak, nonatomic) IBOutlet UILabel*nameChange;
 
 
+=======
+
+@interface ViewController ()
+
+>>>>>>> 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 @end
 
 @implementation ViewController
@@ -27,6 +33,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+<<<<<<< HEAD
 
 }
 
@@ -60,4 +67,15 @@
 
 
 
+=======
+	// Do any additional setup after loading the view, typically from a nib.
+}
+
+- (void)didReceiveMemoryWarning
+{
+    [super didReceiveMemoryWarning];
+    // Dispose of any resources that can be recreated.
+}
+
+>>>>>>> 7fa11e01d70300d6f779d4602b5dfb801d462cc8
 @end
